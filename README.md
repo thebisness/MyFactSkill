@@ -1,0 +1,2 @@
+# MyFactSkill
+amazon skill template
